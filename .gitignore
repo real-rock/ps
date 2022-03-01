@@ -1,6 +1,8 @@
 /CMakeLists.txt
 /cmake-build-debug
-/main.cpp### C++ template
+/main.cpp
+
+### C++ template
 # Prerequisites
 *.d
 
