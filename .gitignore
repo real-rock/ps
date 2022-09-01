@@ -1,7 +1,8 @@
 /CMakeLists.txt
 /cmake-build-debug
 /main.cpp
-./.vscode
+.vscode
+a.out
 
 ### C++ template
 # Prerequisites
