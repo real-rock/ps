@@ -6,14 +6,16 @@
 /*   By: jiheo <jiheo@student.42seoul.kr>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/01 14:45:42 by jiheo             #+#    #+#             */
-/*   Updated: 2022/09/01 16:07:06 by jiheo            ###   ########.fr       */
+/*   Updated: 2022/09/01 16:08:22 by jiheo            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-// Site: baekjoon
-// Problem id: 1074
-// Algorithm: Divide and conquer
-// URL: https://www.acmicpc.net/problem/1074
+/*
+ Site: baekjoon
+ Problem id: 1074
+ Algorithm: Divide and conquer
+ URL: https://www.acmicpc.net/problem/1074
+*/
 
 #include <iostream>
 #include <vector>
